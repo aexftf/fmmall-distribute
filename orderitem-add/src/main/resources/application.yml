@@ -6,7 +6,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: admin123
+    password: 1111
     url: jdbc:mysql://localhost:3306/fmmall2?characterEncoding=utf-8
   zipkin:
     enabled: true

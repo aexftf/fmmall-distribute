@@ -221,7 +221,7 @@ public class OrderServiceImpl implements OrderService {
 
         //4.封装数据
         PageHelper<OrdersVO> pageHelper = new PageHelper<>(count, pageCount, ordersVOS);
-        ;
+
         return new ResultVO(ResStatus.OK, "SUCCESS", pageHelper);
     }
 

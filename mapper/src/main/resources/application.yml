@@ -5,14 +5,14 @@ spring:
       ## 如果后端项目服务器和数据库服务器不在同一台主机，则需要修改localhost为数据库服务器ip地址
       url: jdbc:mysql://localhost:3306/fmmall2?characterEncoding=utf-8
       username: root
-      password: admin123
+      password: 1111
     driver-class-name: com.mysql.jdbc.Driver
   redis:
     port: 6390
 #    host: 47.96.11.185
-    host: 47.100.71.107
+    host: 101.42.137.36
     database: 0
-    password: admin123456
+    password:
 mybatis:
   mapper-locations: classpath:mappers/*Mapper.xml
   type-aliases-package: com.qfedu.fmmall.entity
@@ -25,6 +25,6 @@ redisson:
   addr:
     singleAddr:
 #      host: redis://47.96.11.185:6379
-      host: redis://47.100.71.107:6390
-      password: admin123456
+      host: redis://101.42.137.36:6390
+      password:
       database: 0

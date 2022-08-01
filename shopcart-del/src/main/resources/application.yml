@@ -6,8 +6,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: admin123
-    url: jdbc:mysql://localhost:3306/fmmall2?characterEncoding=utf-8
+    password: 1111
+    url: jdbc:mysql://101.42.137.36:3306/fmmall?characterEncoding=utf-8
   zipkin:
     enabled: true
     base-url: http://localhost:9411

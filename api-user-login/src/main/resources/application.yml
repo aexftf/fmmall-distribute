@@ -5,9 +5,9 @@ spring:
     name: api-user-login
   redis:
     port: 7001
-    host: 47.96.11.185
+    host: 101.42.137.36
     database: 0
-    password: qfedu123
+    password:
 eureka:
   client:
     service-url:

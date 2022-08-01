@@ -11,7 +11,7 @@ spring:
           search-paths: files
           username: 366274379@qq.com
           password: admin123
-
+·
 eureka:
   client:
     service-url:

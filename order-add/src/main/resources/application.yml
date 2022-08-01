@@ -5,9 +5,9 @@ spring:
     name: order-add
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/fmmall2?characterEncoding=utf-8
+    url: jdbc:mysql://localhost:3306/fmmall?characterEncoding=utf-8
     username: root
-    password: admin123
+    password: 1111
   zipkin:
     enabled: true
     base-url: http://localhost:9411

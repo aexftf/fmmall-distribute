@@ -1,12 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="62757e8d-6895-46b1-99a8-25359f379e33" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="62757e8d-6895-46b1-99a8-25359f379e33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-user-login/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-user-login/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-user-regist/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-user-regist/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-14-17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-14-18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-18-16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-18-17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-18-18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-18-19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-18-20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-19-09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-19-10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-19-11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-19-12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-19-18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-19-20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-20-15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-20-16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-21-16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-21-17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-21-19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-22-09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-22-11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-22-12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-23-22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-23-23.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-24-01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-24-09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-24-15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-24-16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-24-17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-24-18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-25-09.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/log-2022-04-07-22.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-25-18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-26-09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-26-10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-26-11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-26-12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-26-14.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-26-18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-31-16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-31-17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-05-31-18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log-2021-06-01-09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapper/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mapper/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-add/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-add/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-querybyid/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-querybyid/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-status-update/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-status-update/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderitem-add/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/orderitem-add/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/qfedu/fmmall/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/com/qfedu/fmmall/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopcart-del/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shopcart-del/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-check/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-check/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -34,6 +101,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -43,11 +136,17 @@
     </option>
   </component>
   <component name="ProjectId" id="1r6inCJtGVmverxf2OIpibz5Ufp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -57,14 +156,24 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="GrepConsole" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.qfedu.fmmall.dao" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java2010\workspace\part4\fmmall\common\src\main\java\com\qfedu\fmmall\beans" />
+      <recent name="E:\Java2010\workspace\part4\fmmall\stock-query\src\main\resources\mappers" />
+      <recent name="E:\Java2010\workspace\part4\fmmall\common\src\main\java\com\qfedu\fmmall\entity" />
+      <recent name="E:\Java2010\workspace\part4\fmmall\common\src\main\java\com\qfedu\fmmall\utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.qfedu.fmmall" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.qfedu.fmmall.dao" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.qfedu.order.dao" />
@@ -73,15 +182,6 @@
       <recent name="com.qfedu.fmmall.dao" />
       <recent name="com.qfedu.fmmall.service.job" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Java2010\workspace\part4\fmmall\common\src\main\java\com\qfedu\fmmall\beans" />
-      <recent name="E:\Java2010\workspace\part4\fmmall\stock-query\src\main\resources\mappers" />
-      <recent name="E:\Java2010\workspace\part4\fmmall\common\src\main\java\com\qfedu\fmmall\entity" />
-      <recent name="E:\Java2010\workspace\part4\fmmall\common\src\main\java\com\qfedu\fmmall\utils" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -89,18 +189,8 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.OrderQuerybyidApplication">
+  <component name="RunManager" selected="Spring Boot.ApiApplication">
     <configuration name="MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qfedu.fmmall.test.MyFrame" />
       <module name="common" />
@@ -155,6 +245,17 @@
       <option name="MAIN_CLASS_NAME" value="com.qfedu.fmmall.ImportProductInfoIntoES" />
       <option name="METHOD_NAME" value="testImportData" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -372,6 +473,10 @@
       </serviceView>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -439,11 +544,33 @@
       <workItem from="1623718099286" duration="7465000" />
       <workItem from="1623768889698" duration="3250000" />
       <workItem from="1623772508418" duration="212000" />
+      <workItem from="1648694884597" duration="8433000" />
+      <workItem from="1648968862222" duration="16565000" />
+      <workItem from="1649485977458" duration="594000" />
+      <workItem from="1649488201979" duration="1908000" />
+      <workItem from="1649556567201" duration="2554000" />
+      <workItem from="1649868739838" duration="577000" />
+      <workItem from="1649898970628" duration="5505000" />
+      <workItem from="1657451001180" duration="23919000" />
+      <workItem from="1657700270457" duration="4218000" />
+      <workItem from="1657868747576" duration="1793000" />
+      <workItem from="1659361061759" duration="2460000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -462,6 +589,15 @@
           <url>file://$PROJECT_DIR$/order-timeout-cancle/src/main/java/com/qfedu/order/service/ReveiveMsgFromMQService.java</url>
           <line>41</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/service/src/main/java/com/qfedu/fmmall/service/UserService.java</url>
+          <line>10</line>
+          <properties class="com.qfedu.fmmall.service.UserService" method="checkLogin">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

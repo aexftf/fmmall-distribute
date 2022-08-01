@@ -4,29 +4,56 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api-order-submit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-order-submit/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api-user-login" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-user-login/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api-user-regist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-user-regist/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/beans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beans/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapper/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-add" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-add/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-close" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-close/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-querybyid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-querybyid/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-status-update" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-status-update/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-timeout-cancle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-timeout-cancle/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-timeout-query" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-timeout-query/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/orderitem-add" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orderitem-add/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/orderitem-query" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orderitem-query/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product-sku-query" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-sku-query/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopcart-del" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopcart-del/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stock-query" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock-query/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stock-update" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock-update/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user-check" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-check/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user-save" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-save/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin-server/src/main/java" charset="UTF-8" />
   </component>
 </project>
